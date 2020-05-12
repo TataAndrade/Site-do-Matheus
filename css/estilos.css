@@ -1,0 +1,41 @@
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2020/02/07/14/22/dream-4827288_960_720.jpg');
+  font-family: Comic Sans MS;
+    background-size: 100vw 100vh;
+  }
+  
+  .menu {
+    background-color: ;
+  }
+  
+  .menu ul {
+    display: flex;
+   justify-content: space-around;   
+  }
+  
+  .menu li {
+    list-style: none;
+    
+  }
+  
+  a {
+    color: grey;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    text-transform:uppercase;
+  }
+  
+  .site-title {
+    color: teal;
+    text-align: center;
+    
+  }
+  
+  .site-subtitle {
+    text-align: right;
+    font-style: Arial;
+    color: green;
+  }
